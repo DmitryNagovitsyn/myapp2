@@ -8,7 +8,7 @@ services:
 
     image: myapp:v1
 
-    container_name: myapp
+    container_name: app
 
     networks:
       - myapp
